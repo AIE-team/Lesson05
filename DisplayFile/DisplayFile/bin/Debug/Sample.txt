@@ -1,0 +1,2 @@
+Hello is the sample text
+for the exercise in the learner manual 

@@ -1,0 +1,6 @@
+C:\Users\Admin\AIE course\Software Development Fundamentals\code\Lesson05\DisplayFile\DisplayFile\bin\Debug\DisplayFile.exe.config
+C:\Users\Admin\AIE course\Software Development Fundamentals\code\Lesson05\DisplayFile\DisplayFile\bin\Debug\DisplayFile.exe
+C:\Users\Admin\AIE course\Software Development Fundamentals\code\Lesson05\DisplayFile\DisplayFile\bin\Debug\DisplayFile.pdb
+C:\Users\Admin\AIE course\Software Development Fundamentals\code\Lesson05\DisplayFile\DisplayFile\obj\Debug\DisplayFile.csprojAssemblyReference.cache
+C:\Users\Admin\AIE course\Software Development Fundamentals\code\Lesson05\DisplayFile\DisplayFile\obj\Debug\DisplayFile.exe
+C:\Users\Admin\AIE course\Software Development Fundamentals\code\Lesson05\DisplayFile\DisplayFile\obj\Debug\DisplayFile.pdb
